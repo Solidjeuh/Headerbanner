@@ -3,7 +3,6 @@
 *
 * @package phpBB Extension - Header Banner
 * @copyright (c) 2015 HiFiKabin
-* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net> 
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
